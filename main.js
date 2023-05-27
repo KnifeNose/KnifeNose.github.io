@@ -14,7 +14,7 @@ let img;
 
 function preload() {
     // Load the image file
-    img = loadImage('theDog.png');
+    img = loadImage('thedog.png');
   }
 
 function setup() {
