@@ -1,3 +1,4 @@
+// Variables
 var logoStartX = window.innerWidth / 2;
 var logoStartY = window.innerHeight / 2;
 
